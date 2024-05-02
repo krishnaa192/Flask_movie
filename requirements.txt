@@ -1,0 +1,4 @@
+# Example requirements.txt
+Flask
+joblib
+pandas
