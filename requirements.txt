@@ -3,3 +3,4 @@ Flask
 joblib
 pandas
 
+scipy
